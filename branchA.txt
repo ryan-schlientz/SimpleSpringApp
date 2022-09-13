@@ -1,3 +1,5 @@
 This is a file for Branch A!
 
+Edit from Branch C
+
 addition from master.
